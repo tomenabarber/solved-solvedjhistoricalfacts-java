@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedjhistoricalfacts-java
+<br>
+Create an application with a JFrame and at least five labels that contain interesting historical facts. Every time the user clicks a JButton, remove one of the labels and add a different one. Save the file as JHistoricalFacts.java. Have the program include the following: -Create an interactive program that meets the above requirements -Create a JFrame and add the setDefaultCloseOperation method -Create a Button and Labels -Implement ActionListener. -Overide the ActionPerformed method. -Use the FLowLayout Manager
